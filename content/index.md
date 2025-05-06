@@ -51,6 +51,9 @@ The perceived enemies of the main party from major to minor Villains.
 > - [[The Hallowed Hearth]]
 > - [[The Path of Remia]]
 > - [[The Marean Umbradoxy]]
+> - [[Greyhound]]
+> - [[Darkwater]]
+> - [[Unknown Invaders]] *(of Velka's home)*
 
 ---
 ## Items
