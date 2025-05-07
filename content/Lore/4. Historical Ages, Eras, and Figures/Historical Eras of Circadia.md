@@ -67,7 +67,7 @@
 
 ## The Era of Illumination
 - The current era of Circadia. The Hallowed Hearth remains a dominant religion in Lucidia.
-- The Soleiran royal family continues to rule over Lucidia, and the neighbouring region of [[The Duchy of Duskmire]] is absorbed. [[Boruta Soleiran]] is anointed Duke of Duskmire.
+- The Soleiran royal family continues to rule over Lucidia, and the neighbouring region of [[The Duchy of Duskmire]] is absorbed. [[Duke Boruta Soleiran]] is anointed Duke of Duskmire.
 - The Menebrae Royal Family continues to rule over Octurna.
 - Great Spirits watch over their domains.
 - Many battles are fought and peace eventually follows.

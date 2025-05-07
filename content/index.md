@@ -18,7 +18,7 @@ This is a quick guide from major to minor Characters.
 
 > [!question] Major NPCs
 > - [[Hearth King Lugh Soleiran]]
-> - [[Queen Rhiannas Malidamus]]
+> - [[Queen Rhiannas Menebrae]]
 > - [[Velka's Patron]]
 
 > [!question] Supporting NPCs
