@@ -1,7 +1,7 @@
 # Introduction:
 
 ## Background: 
-Lucidia borders [[The Kingdom of Octurna|Octurna]] to the south and [[Curia]] to the North, and is ruled by the [[Hearth King Lugh Soleiran]].
+Lucidia borders [[content/Locations/1. Nations/The Lunar Court of Octurna|Octurna]] to the south and [[Curia]] to the North, and is ruled by the [[Hearth King Lugh Soleiran]].
 
 # Geography:
 

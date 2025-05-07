@@ -3,7 +3,7 @@ title: The World Wakes
 ---
 > "Dream is the mirror in which the soul sees itself, and in itself see the image of the Divine."
 
-**The World Wakes** explores the world of [[Circadia]], and the rising tensions between the Kingdoms of [[The Kingdom of Lucidia|Lucidia]] and [[The Kingdom of Octurna|Octurna]]. The story follows [[Jack Miller]], [[Velka]], and [[Victoire De Lancy]] as they adventure across the land while unseen forces move in the shadows.
+**The World Wakes** explores the world of [[Circadia]], and the rising tensions between the Kingdoms of [[The Kingdom of Lucidia|Lucidia]] and [[content/Locations/1. Nations/The Lunar Court of Octurna|Octurna]]. The story follows [[Jack Miller]], [[Velka]], and [[Victoire De Lancy]] as they adventure across the land while unseen forces move in the shadows.
 
 ---
 ## Characters
