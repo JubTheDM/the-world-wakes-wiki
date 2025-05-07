@@ -1,0 +1,3 @@
+Dwarves are an offshoot of the primordial humanoids that adapted to their homes in the mountains, canyons, and subterrain of the world. This development would lend Dwarves an affinity for stone and metal and for living underground, and make them resilient like the mountains.
+
+Squat and often bearded, the original dwarves carved cities and strongholds into mountainsides and under the earth. Their oldest legends tell of conflicts with the monsters of mountaintops and the Underdark, whether those monsters were towering giants or subterranean horrors. Inspired by those tales, dwarves of any culture often sing of valorous deeds—especially of the little overcoming the mighty.

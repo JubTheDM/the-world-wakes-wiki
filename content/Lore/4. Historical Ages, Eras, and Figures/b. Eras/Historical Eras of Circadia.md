@@ -58,7 +58,7 @@
 
 ## The Era of Darkness
 - Monstrous forces of darkness spread across the land, threatening life in Circadia.
-- Fearing extinction, a lone hero raises an army of trusted comrades to drive back the darkness. Due to the safety and warmth he afforded the denizens of Circadia, he came to be known as the [[Hearth Knight]].
+- Fearing extinction, a lone hero raises an army of trusted comrades to drive back the darkness. Due to the safety and warmth he afforded the denizens of Circadia, he came to be known as the [[The Hearth Knight]].
 - The Hearth Knight travels south with his retinue to beseech the aid of a powerful elven maiden called [[Rhia Menebrae]], said to beckon the powers of the moon. An Alliance is formed.
 - Many battles are wrought across the land as powerful Nightmares are vanquished and sealed by the Hearth Knight and his retinue, often referred to as the [[Conquest of Illumination]]. 
 	- During this time, faith returns to the land as the people begin to believe the [[Hallowed Hearth]] to be sent by the God of Light.
