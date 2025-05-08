@@ -1,4 +1,5 @@
 # Ancient History
+---
 ## The Era of Repose
 - In a dimension above mortal comprehension, the [[Gods]] are formed.
 - They begin to collectively dream, and the realm of [[Circadia]] is born.
@@ -15,7 +16,7 @@
 - Over the millennia, these newfound forces of emotion allow life to flourish under the watchful eyes of the Great Spirits.
 
 # Modern History
-
+---
 ## The Era of Men
 - Considered the beginning of modern history.
 - The invention of tools allows civilisation to abandon hunter-gatherer lifestyles.
