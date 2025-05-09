@@ -42,7 +42,7 @@
 - With fields left unattended, those who do not march to war are left to starve.
 - Those that fall outside of both religion and magic turn to the spirits to protect them.
 	- The practice of [[Druidcraft]] is established.
-	- [[Aasimar]] and [[Tieflings]] are born as the blood of mortals mixes with the blood of the Spirit.
+	- The first [[Aasimar]] are born as the blood of mortals mixes with the blood of the Spirit.
 - A third faction known as the [[Order of Oneira]] begins to rise.
 
 ## The Era of Lucidity
@@ -52,9 +52,10 @@
 - The leader of the Order of Oneira and the Sage in White cross paths. They quickly fall in love, and a child is born.
 - [[The Kingdom of Oneira]] is established, and order once again returns to the land.
 - Relics of power are created by Remia and distributed as the civilisations of the world prosper.
-- The lingua arcana develops further in Circadia, and a war is declared against Oneira by it's neighbouring Kingdom. During this war, the relics are repurposed and used as weapons.
-- The King and Prince of Oneira are killed, leaving Remia alone.
-- Feeling grief for the first time, she is overwhelmed and fractures once more. This potent force of darkness is expelled into the world, and [[Nightmares]] begin to proliferate the land.
+- The lingua arcana develops further in Circadia, and a war is declared against Oneira by it's neighbouring Kingdom - The Southern Lands of Magic. During this war, the relics are repurposed and used as weapons.
+	- The decisive battle of this war known as "[[The Scorching]]" takes place in the West of the Kingdom of Oneira as forces invade via the Corpus Divide.
+- The land is seared in the conflict and the King and Prince of Oneira are killed, leaving Remia alone.
+- Feeling grief for the first time, she is overwhelmed and fractures once more. This potent force of darkness is expelled into the world, and [[Hunllefai (Nightmares)]] begin to proliferate the land.
 - The Kingdom of Oneira falls. The Era ends when Remia's lucidity wanes, and she withdraws from the land.
 
 ## The Era of Darkness
@@ -62,7 +63,8 @@
 - Fearing extinction, a lone hero raises an army of trusted comrades to drive back the darkness. Due to the safety and warmth he afforded the denizens of Circadia, he came to be known as the [[The Hearth Knight]].
 - The Hearth Knight travels south with his retinue to beseech the aid of a powerful elven maiden called [[Rhia Menebrae]], said to beckon the powers of the moon. An Alliance is formed.
 - Many battles are wrought across the land as powerful Nightmares are vanquished and sealed by the Hearth Knight and his retinue, often referred to as the [[Conquest of Illumination]]. 
-	- During this time, faith returns to the land as the people begin to believe the [[Hallowed Hearth]] to be sent by the God of Light.
+	- During this time, faith returns to the land as the people begin to believe [[The Hearth Knight]] to be sent by the God of Light.
+	- Various Great Spirits emerge as objects of worship, leading to the birth of numerous diverse and flavoured religions.
 - The Era of Darkness comes to an end when the Conquest of Illumination concludes. The people choose the Hearth Knight to be their King, and [[The Kingdom of Lucidia]] is founded under the [[Soleiran Royal Family]].
 - Rhia Menebrae returns to her homeland in the south with an order of her faithful sorcerers and spirits. [[The Lunar Court of Octurna]] is founded shortly after under the [[Menebrae Royal Family]].
 
@@ -70,14 +72,13 @@
 - The current era of Circadia. The Hallowed Hearth remains a dominant religion in Lucidia.
 - The Soleiran royal family continues to rule over Lucidia, and the neighbouring region of [[The Duchy of Duskmire]] is absorbed. [[Duke Boruta Soleiran]] is anointed Duke of Duskmire.
 - The Menebrae Royal Family continues to rule over Octurna.
+	- [[Princess Simetra Menebrae]] is exiled from Octurna after a failed coup. She and her conspirators are exiled for treason.
 - Great Spirits watch over their domains.
-- Many battles are fought and peace eventually follows.
+- Many important events take place:
+	- A war between Lucidia and the [[Goliaths]] in the North is narrowly avoided when [[Hearth King Artoris Soleiran]] aids in the giant clans' right of succession. This leads to a strong alliance between Lucidia and the giant clans.
+	- A secretive band of warriors known as [[Greyhound]] form.
+		- Greyhound are betrayed by their sister band called [[Darkwater]] for unknown reasons. Greyhound disbands.
 - Trade and commerce prosper.
-- After a high profile inciting incident, war is declared between Lucidia and Octurna.
-	- In the [[Corpus Divide]] between Lucidia and Octurna, the island home of an Aasimar clan is invaded and razed to the ground by unknown assailants. One Aasimar survives, and flees to north to Lucidia.
-	- The decisive battle of this war known as "[[The Scorching]]" takes place in Western Lucidia as Octurnan forces invade via the Corpus Divide.
-	- The land is seared in the conflict, and [[Hearth King Artoris Soleiran]] is killed on the battlefield. His son, Lugh Soleiran, ascends to the throne.
-	- Following the battle, the West of Lucidia is dubbed "[[The Barrowlands]]" due to the significant loss of life. 
-		- Later rumours of undead in the region lead to the development and deployment of [[Saltfire]], a binding flame that inhibits the spirit. A veil of Smoke covers the Barrowlands to this day.
-- A ceasefire is declared, much to the surprise of Lucidian citizens.
+- In the [[Corpus Divide]] between Lucidia and Octurna, the island home of an Aasimar clan is invaded and razed to the ground by unknown assailants. One Aasimar survives, and flees to north to Lucidia.
+- Growing concerns of undead in the Barrowlands lead to the development and deployment of [[Saltfire]], a binding flame that inhibits the spirit. A veil of Saltfire smoke covers the Barrowlands like a veil to contain the undead threat.
 - Rumblings of an illness begin to spread in the city of [[Prillow]].

@@ -1,0 +1,1 @@
+Humans are as varied as they are numerous, and they endeavour to achieve as much as they can in the years they are given. Their ambition and resourcefulness are commended, respected, and feared by many. Humans are as diverse in appearance as the people of Earth, and they have many patron deities.

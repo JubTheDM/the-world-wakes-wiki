@@ -1,0 +1,1 @@
+Divine magic can be cast through the channelling of the fundamental forces of Light and Dark. By channelling the divine, one may tap into and shape these forces according to their will. The potency and effectiveness of divine magic depends on the individual's understanding of their place amongst the grand cosmology.
