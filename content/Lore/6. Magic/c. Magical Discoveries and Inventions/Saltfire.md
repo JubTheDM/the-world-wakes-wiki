@@ -1,1 +1,0 @@
-**Saltfire** is a fire or flame that has been treated with certain combinations of alchemical salts to produce a magical effect, often abjurative. Saltfire smoke is often used to supress spirits, and is a common defence against undead. The smoke is also harmful to living beings when exposed for long periods of time.

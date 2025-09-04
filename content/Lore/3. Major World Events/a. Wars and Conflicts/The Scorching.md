@@ -1,5 +1,0 @@
-**The Scorching** is the name given to the final battle of the war between [[The Kingdom of Oneira]] and the [[Southern Lands of Magic]]. Taking place in what is now known as Western Lucidia, battle left the land scarred. This region is known today as [[The Barrowlands]] due to the growing threat of undead in the area. 
-
-## The Battle
----
-When forces invaded from the southern coast of Oneira through the [[Corpus Divide]], Oneiran forces met them and a bloody battle commenced in the West of the land. During the conflict, the King of Oneira and his son were killed in the conflict. Remia, under the guise of the Sage in White, would remain as the sole ruler following the battle. The events that unfolded post-battle would be known as [[The Waning]], marking the end of the war and the start of the [[Historical Eras of Circadia#The Era of Darkness|Era of Darkness]].

@@ -1,39 +1,28 @@
 ---
-title: The World Wakes
+title: "Faerie: A Realm Wanderer's Guide"
 ---
-> "Dream is the mirror in which the soul sees itself, and in itself see the image of the Divine."
+> *"Given many names by many peoples: Fey, Alfheim, the Otherworld; It is the land beyond our own, the strange reflection upon the pond's mirrored surface, familiar and yet so deeply different."*
 
-**The World Wakes** explores the world of [[Circadia]], and the rising tensions between the Kingdoms of [[The Kingdom of Lucidia|Lucidia]] and [[content/Locations/1. Nations/The Lunar Court of Octurna|Octurna]]. The story follows [[Jack Miller]], [[Velka]], and [[Victoire De Lancy]] as they adventure across the land while unseen forces move in the shadows.
+Welcome to the Realm Wanderer's Guide, a companion wiki for your journey through Faerie. You'll find lore, NPCs, items, and plot beats here so check back in a couple of sessions. Everything is linked, so click away.
 
 ---
 ## Characters
 ### **Player Characters**
-The unlikely heroes *(party name pending)*
-- [[Jack Miller]], played by Jeff
-- [[Velka]], played by Aika
-- [[Victoire De Lancy]], played by Spring
+- [[Character A]], played by Daubs
+- [[Character B]], played by Mac
+- [[Character C]], played by AJ
 
 ### **NPCs**
 This is a quick guide from major to minor Characters.
 
 > [!question] Major NPCs
-> - [[Hearth King Lugh Soleiran]]
-> - [[Queen Rhiannas Menebrae]]
-> - [[Velka's Patron]]
+> - 
 
 > [!question] Supporting NPCs
-> - [[Jacques De Lancy]]
-> - [[Stéphane De Lancy]]
-> - [[Rina Ularis]]
-> - [[Cassimere Burakh]]
-> - [[Norman Plainbrow]]
-> - [[Eeda Keen]]
+> - 
 
 > [!question] Minor NPCs
->- [[Beamis the Butler]]
->- [[Samuel and Maeve Oaks]]
->- [[Aaron and Eddie Smith]]
->- [[Chloe Keen]]
+>- 
 
 ### **Antagonists**
 The perceived enemies of the main party from major to minor Villains.
@@ -48,34 +37,17 @@ The perceived enemies of the main party from major to minor Villains.
 ## Groups
 
 > [!Question] Groups
-> - [[The Hallowed Hearth]]
-> - [[The Path of Remia]]
-> - [[The Marean Umbradoxy]]
-> - [[Greyhound]]
-> - [[Darkwater]]
-> - [[Unknown Invaders]] *(of Velka's home)*
+> - 
 
 ---
 ## Items
 
 > [!important] Items
-> - [[Velka's Focus]]
-> - [[Victoire's Necklace]]
-> - [[Tea Weird]]
-> - [[Brawler's Ring]] (In need of repair)
-> - [[Intrepid Knife]]
-> - [[Eeda's Fire Charm]]
+> - 
 
 ---
 ## Locations
 
 > [!faq] Locations
-> - [[The Kingdom of Lucidia]]
-> 	- [[Prillow]]
-> 	- [[Westbrook]]
-> 	- [[Peathall]]
-> 	- [[Velhaven]]
-> - [[Tabbot Bog]]
-> - [[The Fairglen Hills]]
-> - [[The Calderwood Forest]]
+> - 
 

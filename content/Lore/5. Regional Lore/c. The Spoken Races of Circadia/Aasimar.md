@@ -1,3 +1,0 @@
-Aasimar are mortals who carry a blood of spirits within their veins. Whether descended from a Great Spirit or infused with the fundamental forces of Light or Dark, they can fan that spark to bring light and healing, or a shroud of dark and heavenly fury.
-
-Aasimar can arise among any population of mortals. They resemble their parents, but they live for up to 160 years and have features that hint at their spiritual heritage, such as metallic freckles, luminous eyes, a halo, or the skin colour of a spirit. These features start subtle and become obvious when the aasimar learns to reveal their full celestial nature.

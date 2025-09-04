@@ -1,1 +1,0 @@
-The Gods are beings of unquantifiable and unimaginable power that reside in a plane beyond the understanding of mortals. They are responsible for the creation of [[Circadia]], and each embody one of the three Fundamental Forces:[[ Ninota]]'s Light, [[Marean]]'s Dark, and [[Remia]]'s Spirit.

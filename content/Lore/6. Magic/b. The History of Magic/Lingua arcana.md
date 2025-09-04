@@ -1,3 +1,0 @@
-The lingua arcana is a language and numeral system used in spellcasting. Runes of the lingua arcana can also be used in the enchantment of magical items.
-
-It is believed by many that the lingua arcana describes the relationship between material and its spiritual reflection, and have devised a number of theories as to how and why it works. The lingua arcana is still in development today, as wizards and sorcerers study, debate and build on the structure it offers.
