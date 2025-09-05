@@ -1,0 +1,8 @@
+## The Magic of Names
+Onomancy is the magic of naming, founded in the forgotten truths that names represent. To know the name of a thing, some say, is to hold power over it. For most mortal creatures, a name is a rather simple and oft easily attainable thing; made all the easier by the ignorance most mortals have toward the power of names. The names of powerful creatures are far less easy to come by, treated as well guarded secrets and deeply coveted by onomancers.
+
+#### Names & True Names
+All creatures have names, monikers, or even pseudonyms they go by. But whilst a name still holds onomantic power, a name is not a true name. A true name is a sacred and powerful thing, tied deeply to the very being of its bearer. Mortal lives are fleeting and ever changing, as such their true name needn't be their birth name, but it is always the name they identify most deeply with. For powerful fey and fiends, bound as they are by intangible laws and ancient truths, a true name is normally the first name they were ever given. As such, powerful creatures will often go under pseudonyms or nicknames in order to protect themselves from those who might use their true names against them. Some even go as far as to purge the minds of, or even kill, those who have knowledge of their true name. For the purposes of the mechanics presented here there are two types of naming:
+
+- **Names.** Refer to any moniker the target creature identifies with, the most common form used in onomancy. 
+- **True Names.** Refer to the sacred and powerful name most deeply tied to a creature, in its entirety. Knowing the true names of powerful creatures is difficult, and even some mortals make efforts to obscure knowledge of their true name.
