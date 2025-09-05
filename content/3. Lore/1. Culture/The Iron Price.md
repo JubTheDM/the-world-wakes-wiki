@@ -1,9 +1,9 @@
 Iron is a precious resource in the realm of Faerie due to its rarity and potency (particularly when made into coldiron) when used against the realm's natural inhabitants. Iron does not occur naturally anywhere in the lands of the fey (save for the scales of iron wyrms), and so cannot be mined or otherwise extracted, nor can magic produce iron or any iron derivatives there; a fact most fey are grateful for. As a result, any iron within Faerie has been brought into the realm from the mortal plane upon the person of anyone who tumbled between the veil of their own world into the otherworld. This simple but foundational fact of the realm has a big impact on campaigns run within Faerie, as those adventurers carrying iron are likely going to be relentlessly targeted by either Peregrine Knights of Avalon seeking to confiscate and protect the iron on their person, or by fey who wish to destroy the iron (and likely its wielder) out of disgust and well-placed fear.
 
-## ColdIron
+## Coldiron
 It is no secret that those born of Faerie are particularly vulnerable to attacks made with weapons of iron, but in truth simple smithed iron will provide no real advantage over fey. It is coldiron that is needed, a legendary and exceptionally rare form of iron that takes its recipe from the tales of old:
 
-> [!Quote] The First Iron
+> [!quote] The First Iron
 > *"And so he wrought a weapon that cut through the otherkin like a mighty galley through rough water. Its' birth was smelted in spring, its blade forged in the heats of summer, its metal tempered in the autumn, and its fires quenched in the ice of winter."* 
 >
 >Morta Chronicles, Archive of Avalon
