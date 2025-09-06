@@ -2,27 +2,6 @@
 # Map of the Realm
 
 ![[Map of the Realm.jpg]]
-
-```leaflet
-id: Faeri-map
-lock: true
-recenter: false
-noScrollZoom: false
-image: content/3. Lore/3. History/Map of the Realm.jpg
-bounds: [[0,0], [140, 100]]
-height: 1000px
-width: 130%
-lat: 63.75
-long: 63.5
-minZoom: 2.8
-maxZoom: 5
-defaultZoom: 2.75
-zoomDelta: 0.5
-unit: miles
-scale: 1
-darkMode: false
-```
-
 # History of the Realm
 The river of time doth not flow through Faerie like the waters of the Material, the sand within its hourglass falls unpredictably and without witness. This strangeness leaves a realm that is less reliant on the calendar, where season is location and where its most potent figures measure their lives in aeons rather than years. Yet whilst the current of time here may ebb and flow, it remains as linear as anywhere. The events of its history lie scattered in its wake, leaving a tapestry that marks the passage of time through the sequence of story rather than date. 
 
