@@ -1,6 +1,8 @@
 >*This initial section hopes to cover with broader strokes the key truths and information pivotal to running Faerie as a living setting. Primarily you will find information on the weather patterns of the world and how they relate to the cardinal houses of season, as well as run-down of the general political structure of the kingdoms from rulers to lords and beyond.*
 # Map of the Realm
 
+![[Map of the Realm.jpg]]
+
 ```leaflet
 id: Faeri-map
 lock: true
